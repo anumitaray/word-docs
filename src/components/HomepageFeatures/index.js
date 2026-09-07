@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '?? Professional Document Authoring',
+    title: 'Professional Document Authoring',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -14,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '?? Real-Time Cloud Co-Authoring',
+    title: 'Real-Time Cloud Co-Authoring',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -24,7 +24,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '?? Intelligent AI Assistance',
+    title: 'Intelligent AI Assistance',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>

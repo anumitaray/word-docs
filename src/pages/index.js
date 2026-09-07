@@ -20,22 +20,22 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/overview">
-            Product Overview ??
+            Product Overview
           </Link>
           <Link
             className="button button--secondary button--outline button--lg"
             to="/docs/getting-started">
-            Getting Started ??
+            Getting Started
           </Link>
           <Link
             className="button button--secondary button--outline button--lg"
             to="/docs/user-guide">
-            User Guide ??
+            User Guide
           </Link>
           <Link
             className="button button--secondary button--outline button--lg"
             to="/docs/troubleshooting">
-            Troubleshooting ??
+            Troubleshooting
           </Link>
         </div>
       </div>
